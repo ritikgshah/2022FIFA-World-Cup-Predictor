@@ -1,3 +1,4 @@
 # 2022FIFA-World-Cup-Predictor
 
-# 2022 FIFA WC predictor.ipynb has all the python code used to generate the predictions
+2022 FIFA WC predictor.ipynb is a jupyter file containing all the python code used to generate the predictions
+Web Scraping_no run.ipynb is a jupyter file that has code for webscraping data that was used to pull different rankings from the web to be used in my predictions 
