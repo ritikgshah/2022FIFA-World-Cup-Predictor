@@ -8,3 +8,4 @@ fifa-world-cup-2022-fixtures.csv has the fixture data for the 2022 world cup as 
 
 new_rankings.csv has the latest FIFA men's world rankings that will be used to make predictions for the world cup
 
+results.csv has the results of all international matches played and this data was taken from Kaggle
