@@ -4,6 +4,7 @@
 
 <img width="1331" alt="Screen Shot 2022-05-09 at 9 17 43 PM" src="https://user-images.githubusercontent.com/51481040/174838688-ba20b876-11ab-43bd-b4fd-b758d2337935.png">
 
+Sometimes when the program is run it will show that Iran will go to the knockout stages, while othertimes it will show that USA will go through since they are both predicted to score the same number of points in the same group. I do not have a tie breaker system in place, but this should not matter as either way Netherlands is predicted to defeat Iran or USA whoever the program says will go through to the knockouts.
 
 Web Scraping_no run.ipynb is a jupyter file that has code for webscraping data that was used to pull different rankings from the web to be used in my predictions. 
 
