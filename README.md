@@ -15,3 +15,5 @@ new_rankings.csv has the latest FIFA men's world rankings that will be used to m
 results.csv has the results of all international matches played and this data was taken from Kaggle.
 
 2022 FIFA world cup predictor paper.pdf has a deatiled write up of my thought prcoess as I approached this question. There is an introduction, methods, discussion, results, and conclusion section which is written to explain the models I use, why I use them, and show what I found by using these models.
+
+Note: This project was coded on Google colab, hence you might see some code for that process. The folder can be accessed on this link if you wish to run the project yourself: https://drive.google.com/drive/folders/1Adz_s3R4syPqRTGO-naV7bJ6Yipqlnwq?usp=sharing
