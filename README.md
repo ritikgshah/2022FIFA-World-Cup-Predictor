@@ -1,6 +1,6 @@
 # 2022FIFA-World-Cup-Predictor
 
-2022 FIFA WC predictor.ipynb is a jupyter file containing all the python code used to generate the predictions. The elimination style tournament bracket created has visualization issues on github, but when this file and all supporting files are downloaded and run on your local machine, these issues will go away and the bracket will look much cleaner. The knockoutstage bracket is supposed to look like this:
+2022 FIFA WC predictor.ipynb is a jupyter file containing all the python code used to generate the predictions. The elimination style tournament bracket created has visualization issues on github, but when this file and all supporting files are downloaded and run on your local machine, these issues will go away and the bracket will look much cleaner. The knockoutstage bracket looks like this when I run it on my computer:
 
 <img width="1333" alt="Screen Shot 2022-07-12 at 11 17 01 PM" src="https://user-images.githubusercontent.com/51481040/178645840-82a3d457-478f-4e08-bdf3-e749ee765c95.png">
 
