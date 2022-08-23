@@ -22,4 +22,4 @@ results.csv has the results of all international matches played and this data wa
 
 2022 FIFA world cup predictor paper.pdf has a detailed write up of my thought process as I approached this question. There is an introduction, methods, discussion, results, and conclusion section which is written to explain the models I use, why I use them, and show what I found by using these models.
 
-Note: This project was coded on Google colab, hence you might see some code for that process. The folder can be accessed on this link if you wish to run the project yourself: https://drive.google.com/drive/folders/1Adz_s3R4syPqRTGO-naV7bJ6Yipqlnwq?usp=sharing
+Note: This project was coded on Google colab, hence you might see some code for that process. The folder can be accessed on this link if you wish to run the project yourself: https://drive.google.com/drive/folders/1Adz_s3R4syPqRTGO-naV7bJ6Yipqlnwq?usp=sharing The main google colab file can be accessed on this link if it does not work using the google drive link listed above: https://drive.google.com/file/d/1n3iRwMGmrYoeyGSnca0POOz2n1ethjJq/view?usp=sharing
